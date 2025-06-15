@@ -1,3 +1,3 @@
 # apna-college
 demo
-author shivansh singh
+author <br> shivansh singh
